@@ -27,5 +27,3 @@ passo = int(input('Passo: '))
 
 print()
 contador(inicio,fim,passo)
-
-
